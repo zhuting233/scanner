@@ -1,6 +1,5 @@
 package main
 
-//go中获取pid比较困难，用c实现
 
 /*
 int get_pid()
